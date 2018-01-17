@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="gap_0">4dp</dimen>
+    <dimen name="gap_1">8dp</dimen>
+    <dimen name="gap_2">16dp</dimen>
+
+    <dimen name="card_elevation_clickable">2dp</dimen>
+    <dimen name="card_elevation_not_clickable">1dp</dimen>
+    <dimen name="card_margin_offset">-16dp</dimen>
+</resources>

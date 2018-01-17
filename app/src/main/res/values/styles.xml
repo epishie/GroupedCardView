@@ -1,0 +1,35 @@
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="HeaderText">
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Subhead</item>
+        <item name="android:textColor">@color/blue_grey_500</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="FooterText">
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Body1</item>
+        <item name="android:textColor">@color/blue_grey_500</item>
+    </style>
+    <style name="TitleText">
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Title</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/blue_grey_900</item>
+    </style>
+    <style name="SubTitleText">
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Body1</item>
+        <item name="android:textColor">@color/blue_grey_500</item>
+    </style>
+    <style name="ValueText">
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Title</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/blue_grey_900</item>
+    </style>
+    <style name="KindText">
+        <item name="android:textSize">8sp</item>
+        <item name="android:textColor">@color/blue_grey_900</item>
+        <item name="android:background">@drawable/kind_greyed_bg</item>
+    </style>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GroupedCardView</string>
+    <string name="section_header_1">Tappable Section</string>
+    <string name="section_header_2">Untappable Section</string>
+    <string name="section_footer_2">Placeholder text for section footer</string>
+    <string name="currency_value">\u00A5 %1$,d</string>
+    <string name="total">Total</string>
+    <string name="error">Unable to retrieve data. Please try again.</string>
+    <string name="retry">Retry</string>
+</resources>
